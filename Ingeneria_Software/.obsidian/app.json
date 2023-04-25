@@ -1,0 +1,10 @@
+{
+  "alwaysUpdateLinks": true,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "es-ES"
+  ],
+  "attachmentFolderPath": "/",
+  "showUnsupportedFiles": true,
+  "newFileLocation": "current"
+}
