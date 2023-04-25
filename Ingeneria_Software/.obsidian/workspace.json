@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primer Semestre/Algoritmo & Lógica de Programación.md",
+                "file": "Segundo Semestre/Ingeniería de Requerimientos de Software.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Primer Semestre/Algoritmo & Lógica de Programación.md",
+                "file": "Segundo Semestre/Ingeniería de Requerimientos de Software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Primer Semestre/Algoritmo & Lógica de Programación.md"
+                "file": "Segundo Semestre/Ingeniería de Requerimientos de Software.md"
               }
             }
           },
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Primer Semestre/Algoritmo & Lógica de Programación.md",
+                "file": "Segundo Semestre/Ingeniería de Requerimientos de Software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "6aaa4835cdcc4c8f",
+  "active": "a909a9ba8d19817b",
   "lastOpenFiles": [
     "Primer Semestre/Algoritmo & Lógica de Programación.md",
     "Segundo Semestre/Segundo Nivel.md",
