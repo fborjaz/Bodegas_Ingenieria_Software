@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Segundo Semestre/Ingeniería de Requerimientos de Software.md",
+                "file": "Segundo Semestre/Técnica de Programación.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Segundo Semestre/Ingeniería de Requerimientos de Software.md",
+                "file": "Segundo Semestre/Técnica de Programación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Segundo Semestre/Ingeniería de Requerimientos de Software.md"
+                "file": "Segundo Semestre/Técnica de Programación.md"
               }
             }
           },
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Segundo Semestre/Ingeniería de Requerimientos de Software.md",
+                "file": "Segundo Semestre/Técnica de Programación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,6 +149,10 @@
   },
   "active": "a909a9ba8d19817b",
   "lastOpenFiles": [
+    "Segundo Semestre/Física.md",
+    "Segundo Semestre/Técnica de Programación.md",
+    "Segundo Semestre/Investigación.md",
+    "Segundo Semestre/Ingeniería de Requerimientos de Software.md",
     "Primer Semestre/Algoritmo & Lógica de Programación.md",
     "Segundo Semestre/Segundo Nivel.md",
     "Primer Semestre/Primer Nivel.md",
@@ -156,10 +160,6 @@
     "Primer Semestre/Introducción a la Ingeniera Software.md",
     "Primer Semestre/Ingles.md",
     "Primer Semestre/Cálculo.md",
-    "Segundo Semestre/Técnica de Programación.md",
-    "Segundo Semestre/Investigación.md",
-    "Segundo Semestre/Ingeniería de Requerimientos de Software.md",
-    "Segundo Semestre/Física.md",
     "Segundo Semestre/Álgebra Lineal.md",
     "Ingeniera Software.md",
     "Untitled.canvas",
