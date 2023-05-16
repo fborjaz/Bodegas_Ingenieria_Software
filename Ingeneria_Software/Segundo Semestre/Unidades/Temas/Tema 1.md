@@ -48,6 +48,12 @@ Define los aspectos de comportamiento de un software.
 Define los aspectos no conductuales de el software, Ej. atributos del sistema: mantenibilidad, confidencialidad, seguridad, etc.
 
 #### No Funcional...
+- Usualmente no se implementa  en un solo modulo de software.
+- Requerimientos no funcionales pueden ser restricciones globales en el software.
+- Difícil de modelar usando técnicas de modelamiento convencional.
+
+![[FT-0002.png]]
+
 
 
 

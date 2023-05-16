@@ -18,14 +18,14 @@
       "query": "tag:#Nivel_1",
       "color": {
         "a": 1,
-        "rgb": 8123515
+        "rgb": 392965
       }
     },
     {
       "query": "tag:#Nivel_2",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 65531
       }
     }
   ],
