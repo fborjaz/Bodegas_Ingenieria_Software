@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Segundo Semestre/Técnica de Programación.md",
+                "file": "Segundo Semestre/Ingeniería de Requerimientos de Software.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b42eb80e7c9f5a74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segundo Semestre/Unidades/Temas/Tema 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Segundo Semestre/Técnica de Programación.md",
+                "file": "Segundo Semestre/Unidades/Temas/Tema 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Segundo Semestre/Técnica de Programación.md"
+                "file": "Segundo Semestre/Unidades/Temas/Tema 1.md"
               }
             }
           },
@@ -119,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Segundo Semestre/Técnica de Programación.md",
+                "file": "Segundo Semestre/Unidades/Temas/Tema 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,21 +161,27 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a909a9ba8d19817b",
+  "active": "b42eb80e7c9f5a74",
   "lastOpenFiles": [
-    "Segundo Semestre/Física.md",
-    "Segundo Semestre/Técnica de Programación.md",
-    "Segundo Semestre/Investigación.md",
+    "Segundo Semestre/Unidades/Temas/FT-0001.png",
+    "Segundo Semestre/Unidades/Temas/Tema 1.md",
+    "Segundo Semestre/Unidades/Unidad 1.md",
+    "Pasted image 20230516184414.png",
     "Segundo Semestre/Ingeniería de Requerimientos de Software.md",
-    "Primer Semestre/Algoritmo & Lógica de Programación.md",
-    "Segundo Semestre/Segundo Nivel.md",
+    "Segundo Semestre/Unidades/Temas",
+    "Segundo Semestre/Unidades",
     "Primer Semestre/Primer Nivel.md",
     "Primer Semestre/Lenguaje & Comunicación.md",
     "Primer Semestre/Introducción a la Ingeniera Software.md",
     "Primer Semestre/Ingles.md",
     "Primer Semestre/Cálculo.md",
-    "Segundo Semestre/Álgebra Lineal.md",
+    "Primer Semestre/Algoritmo & Lógica de Programación.md",
     "Ingeniera Software.md",
+    "Segundo Semestre/Técnica de Programación.md",
+    "Segundo Semestre/Física.md",
+    "Segundo Semestre/Investigación.md",
+    "Segundo Semestre/Segundo Nivel.md",
+    "Segundo Semestre/Álgebra Lineal.md",
     "Untitled.canvas",
     "2022-12-20.md",
     "Sexto Semestre/Sexto Nivel.md",
