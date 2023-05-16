@@ -40,6 +40,17 @@ Diseñar y construir un elegante programa de cómputo que resuelva el problema e
 - Informan directamente a los desarrolladores qué crear.
 
 
+### Subtema #2: Requerimientos funcionales y no funcionales. 
+#### **Funcional**
+Define los aspectos de comportamiento de un software.
+
+#### **No Funcional**
+Define los aspectos no conductuales de el software, Ej. atributos del sistema: mantenibilidad, confidencialidad, seguridad, etc.
+
+#### No Funcional...
+
+
+
 
 
 [[Unidad 1]]
