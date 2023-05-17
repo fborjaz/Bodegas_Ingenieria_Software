@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingeniera Software.md",
+                "file": "Segundo Semestre/Unidades/Temas/Tema 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ingeniera Software.md",
+                "file": "Segundo Semestre/Unidades/Temas/Tema 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ingeniera Software.md"
+                "file": "Segundo Semestre/Unidades/Temas/Tema 1.md"
               }
             }
           },
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingeniera Software.md",
+                "file": "Segundo Semestre/Unidades/Temas/Tema 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,8 +158,9 @@
   "active": "a909a9ba8d19817b",
   "lastOpenFiles": [
     "Segundo Semestre/Unidades/Temas/Tema 1.md",
-    "Segundo Semestre/Unidades/Temas/FT-0002.png",
     "Segundo Semestre/Unidades/Unidad 1.md",
+    "Ingeniera Software.md",
+    "Segundo Semestre/Unidades/Temas/FT-0002.png",
     "Segundo Semestre/Ingeniería de Requerimientos de Software.md",
     "Segundo Semestre/Unidades/Temas/FT-0001.png",
     "Pasted image 20230516184414.png",
@@ -171,7 +172,6 @@
     "Primer Semestre/Ingles.md",
     "Primer Semestre/Cálculo.md",
     "Primer Semestre/Algoritmo & Lógica de Programación.md",
-    "Ingeniera Software.md",
     "Segundo Semestre/Técnica de Programación.md",
     "Segundo Semestre/Física.md",
     "Segundo Semestre/Investigación.md",
