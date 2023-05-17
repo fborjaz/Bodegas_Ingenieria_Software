@@ -54,9 +54,34 @@ Define los aspectos no conductuales de el software, Ej. atributos del sistema: m
 
 ![[FT-0002.png]]
 
+- Velocidad del servidor web
+- Eficiencia de ‘scripts’ del lado del servidor
+- Tiempo de respuesta del motor de base de datos.
+
+### Subtema #3: Procesos de ingeniería de requerimientos.
+- Se define las **necesidades** del **negocio**.
+- Se define  las **funciones** y **características**.
+- Se identifican las **restricciones** del proyecto.
 
 
 
+Para **Fred Brook**, es claro que “La parte más difícil al construir un sistema de software es decidir qué construir. Ninguna parte del trabajo invalida tanto al sistema resultante si ésta se hace mal. Nada es más difícil de corregir después".
 
+
+
+**Coper Jones**, lo define de la siguiente manera: “Las semillas de los desastres enormes del software por lo general se vislumbran en los tres primeros meses del inicio del proyecto".
+
+![[FT-0003.png]]
+
+### Subtema 4: Requisitos de software en el contexto de la ingeniería de software
+
+![[FT-0004.png]]
+
+![[FT-0005.png]]
+
+![[FT-0006.png]]
+
+## Conclusiones
+Entender y **decodificar los requerimientos de un problema para transformarlos en una solución** es una de las tareas más difíciles que enfrenta el ingeniero de software. Cuando se piensa por primera vez, no parece tan difícil desarrollar un entendimiento claro de requerimientos. E incluso si los clientes y los usuarios finales explican sus necesidades, éstas cambiarán mientras se desarrolla el proyecto.
 
 [[Unidad 1]]

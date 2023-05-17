@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a909a9ba8d19817b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Segundo Semestre/Unidades/Temas/Tema 1.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b42eb80e7c9f5a74",
             "type": "leaf",
             "state": {
@@ -57,8 +44,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Carrera",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -94,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Segundo Semestre/Unidades/Temas/Tema 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Segundo Semestre/Unidades/Temas/Tema 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -127,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Segundo Semestre/Unidades/Temas/Tema 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,14 +138,18 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a909a9ba8d19817b",
+  "active": "b42eb80e7c9f5a74",
   "lastOpenFiles": [
     "Segundo Semestre/Unidades/Temas/Tema 1.md",
+    "Segundo Semestre/Unidades/Temas/FT-0006.png",
+    "Segundo Semestre/Unidades/Temas/FT-0005.png",
+    "Segundo Semestre/Unidades/Temas/FT-0001.png",
+    "Segundo Semestre/Unidades/Temas/FT-0004.png",
+    "Segundo Semestre/Unidades/Temas/FT-0003.png",
     "Segundo Semestre/Unidades/Unidad 1.md",
     "Ingeniera Software.md",
     "Segundo Semestre/Unidades/Temas/FT-0002.png",
     "Segundo Semestre/Ingeniería de Requerimientos de Software.md",
-    "Segundo Semestre/Unidades/Temas/FT-0001.png",
     "Pasted image 20230516184414.png",
     "Segundo Semestre/Unidades/Temas",
     "Segundo Semestre/Unidades",
